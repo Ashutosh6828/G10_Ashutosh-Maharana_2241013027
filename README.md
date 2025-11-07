@@ -1,4 +1,4 @@
-# G10_Ashutosh Maharana_2241013027
+# G10_Ashutosh Maharana_2241013027_System Monitor
 
 C++ Win32 System Monitor
 A lightweight, real-time system monitor for Windows, built from scratch using the native Win32 API and C++. This application provides a view of system performance and running processes, similar to a simplified Windows Task Manager.
